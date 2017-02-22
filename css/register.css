@@ -1,0 +1,107 @@
+*{margin:0;padding:0}
+
+body{
+    font-size: 20px;
+
+}
+
+li{
+    font-size: 20px;
+}
+
+
+hr{
+    border-top: 1px solid #aaaaaa;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+body{
+    padding-top: 50px;
+
+}
+
+.container{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    width: 100%;
+}
+
+#myCarousel{
+    width: 100%;
+}
+
+.carousel-inner{
+    width: 100%;
+}
+
+.carousel-inner img{
+    width: 100%;
+}
+
+.main-container{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+
+
+.left-container{
+
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+}
+
+.right-container{
+    padding-right: 0px;
+    padding-left: 20px;
+    height: auto;
+
+}
+
+.right-container img{
+    width: 100%;
+    height: auto;
+}
+
+/* footer */
+footer
+{
+    background: #ffffff;
+    color: #000000;
+    min-height: 120px;
+    text-align: center;
+
+}
+
+.copy
+{
+    padding-bottom: 20px;
+}
+
+.share-group
+{
+    display: block;
+    width: 1080px;
+    margin: 0px auto;
+    padding:20px;
+}
+
+.share-group li
+{
+    display: inline-block;
+    padding: 10px;
+}
+
+
